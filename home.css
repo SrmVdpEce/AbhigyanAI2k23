@@ -18,7 +18,7 @@ body {
   /* background-image: url(images/bg3.jpg);
   background-repeat: no-repeat;
   background-position: top 50vh right 0; */
-  background: #262223;
+  background:#262433;
   margin: 0;
   padding: 0;
 }
@@ -28,7 +28,7 @@ body {
   align-items:center;
   justify-content:space-between;  
   padding: 20px 80px;
-  background-color: #E3E6F3;
+  background-color:#E3E6F3;
   box-shadow:0 5px 15px rgba(0,0,0,0.06);
   z-index:999;
   position: sticky;
