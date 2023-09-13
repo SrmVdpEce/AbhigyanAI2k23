@@ -28,7 +28,7 @@ body {
   align-items:center;
   justify-content:space-between;  
   padding: 20px 80px;
-  background-color: #E3E6F3;
+  background-color: #262223;
   box-shadow:0 5px 15px rgba(0,0,0,0.06);
   z-index:999;
   position: sticky;
@@ -60,7 +60,7 @@ body {
 }
 #navbar li a:hover,
 #navbar li a.activation {
-  color:white;
+  color:red;
 }
 
 #navbar li a.activation::after,
