@@ -60,7 +60,7 @@ body {
 }
 #navbar li a:hover,
 #navbar li a.activation {
-  color:white;
+  color:red;
 }
 
 #navbar li a.activation::after,
